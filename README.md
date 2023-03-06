@@ -2,16 +2,15 @@
 
 Thia Bot Will Allow You To Generate Pyrogram And Telethon String For Telegram Developed  ❤️
 
-<p align="center"><a href="https://t.me/Dr_Assad_Ali"><img src="https://telegra.ph/file/27bfcfbb9d72fb3f3a1ca.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/kiritonibos"><img src="https://telegra.ph/file/99600df12e0a8fe49cc5b.jpg" width="300"></a></p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&colosr=red" /></a>
-    <a href="https://github.com/TheTeamAlexa/Session_Robot/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-red.svg?style=flat-square" /></a>
-    <a href="https://app.codacy.com/gh/TheTeamAlexa/Session_Robot/dashboard"> <img src="https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=red&logo=codacy&style=flat-square" alt="Codacy" /></a><br>
-    <a href="https://github.com/TheTeamAlexa/Session_Robot"> <img src="https://img.shields.io/github/repo-size/TheTeamAlexa/Session_Robot?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/TheTeamAlexa/Session_Robot/commits/main"> <img src="https://img.shields.io/github/last-commit/TheTeamAlexa/Session_Robot?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/TheTeamAlexa/Session_Robot/issues"> <img src="https://img.shields.io/github/issues/?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/TheTeamAlexa/Session_Robot/network/members"> <img src="https://img.shields.io/github/forks/TheTeamAlexa/Session_Robot?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
-    <a href="https://github.com/TheTeamAlexa/Session_Robot/network/members"> <img src="https://img.shields.io/github/stars/TheTeamAlexa/Session_Robot?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
+    <a href="https://github.com/DjeFaris/str/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-red.svg?style=flat-square" /></a>
+    <a href="https://github.com/DjeFaris/str"> <img src="https://img.shields.io/github/repo-size/DjeFaris/str?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
+    <a href="https://github.com/DjeFaris/str/commits/main"> <img src="https://img.shields.io/github/last-commit/DjeFaris/str?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
+    <a href="https://github.com/DjeFaris/str/issues"> <img src="https://img.shields.io/github/issues/?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
+    <a href="https://github.com/DjeFaris/str/network/members"> <img src="https://img.shields.io/github/forks/DjeFaris/str?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
+    <a href="https://github.com/DjeFaris/str/network/members"> <img src="https://img.shields.io/github/stars/DjeFaris/str?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
 </p>
 
 <h3>Requirements 😊 </h3>
@@ -24,11 +23,7 @@ Thia Bot Will Allow You To Generate Pyrogram And Telethon String For Telegram De
 ## Heroku Deployment ❤️
 The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable).
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TheTeamAlexa/Session_Robot)
-
-### Asad– History
-
-<a href="https://www.youtube.com/JankariKiDuniya"><img src="https://img.shields.io/badge/Join-Subscribe%20Support-blue.svg?style=for-the-badge&logo=YouTube"></a>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DjeFaris/str)
 
 ## Features ❤️”®
 
@@ -39,7 +34,7 @@ The easy way to host this bot, deploy to Heroku, Change the app country to Europ
 
 1. Clone the repo
    ```markdown
-   git clone https://github.com/TheTeamAlexa/Session_Robot
+   git clone https://github.com/DjeFaris/str
    ```
 2. Get a DATABASE_URL. If you don't know how, deploy using Heroku Button only or delete database things as it's not a compulsion.
    
@@ -63,10 +58,10 @@ The easy way to host this bot, deploy to Heroku, Change the app country to Europ
 - `BOT_TOKEN` - Get this from [@BotFather](https://t.me/BotFather)
 - `DATABASE_URL` - Will be automatically added by Heroku.
 - `MUST_JOIN` - Username/ID of your telegram channel/group
-- [Credit Stark Bot](https://github.com/StarkBotsIndustries)
+- [Credit RITO Bot](https://t.me/kiritonibos)
 
 
 
 ### Support & Updates ❤️❤️
-<a href="https://t.me/Shayri_Music_Lovers"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/jankarikiduniya"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/ritolog"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/jasa_kirito"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
