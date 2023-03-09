@@ -6,6 +6,7 @@ load_dotenv()
 API_ID = os.getenv("API_ID", "").strip()
 API_HASH = os.getenv("API_HASH", "").strip()
 BOT_TOKEN = os.getenv("BOT_TOKEN", "").strip()
+OWNER_ID = list(map(int, os.getenv("OWNER_ID", "5573141376").split()))
 DATABASE_URL = os.getenv("DATABASE_URL", "").strip()
 MUST_JOIN = os.getenv("MUST_JOIN", "")
 
@@ -28,5 +29,5 @@ except ValueError:
     print("API_ID is not a valid integer. Exiting...")
     raise SystemExit
 
-if "postgres" in DATABASE_URL and "postgresql" not in DATABASE_URL:
+if 'postgres' in DATABASE_URL and 'postgresql' not in DATABASE_URL:
     DATABASE_URL = DATABASE_URL.replace("postgres", "postgresql")
