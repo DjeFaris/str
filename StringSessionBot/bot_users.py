@@ -2,8 +2,8 @@ from pyrogram.types import Message
 from pyrogram import Client, filters
 
 from env import OWNER_ID
-from StringSessionBot.db import SESSION
-from StringSessionBot.db.users_sql import Users, num_users
+from StringSessionBot.database import SESSION
+from StringSessionBot.database.users_sql import Users, num_users
 
 
 @Client.on_message(~filters.service, group=1)
