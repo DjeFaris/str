@@ -18,15 +18,13 @@ async def must_join_channel(bot: Client, msg: Message):
                 chat_info = await bot.get_chat(MUST_JOIN)
                 link = chat_info.invite_link
             try:
-                await msg.reply(
-                    f"ʏᴏᴜ ᴍᴜsᴛ ᴊᴏɪɴ [ᴛʜɪs ᴄʜᴀɴɴᴇʟ]({link}) ᴛᴏ ᴜsᴇ ᴍᴇ. ᴀꜰᴛᴇʀ ᴊᴏɪɴɪɴɢ ᴛʀʏ ᴀɢᴀɪɴ!",
-                    disable_web_page_preview=True,
-                    reply_markup=InlineKeyboardMarkup(
-                        [[InlineKeyboardButton("✨ ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟ ✨", url=link)]]
-                    ),
+                await msg.reply_photo(photo="https://telegra.ph/file/04553bb89d89d282528e8.jpg", caption=f"» ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ᴍʏ ᴅᴀᴛᴀʙᴀsᴇ ʏᴏᴜ'ᴠᴇ ɴᴏᴛ ᴊᴏɪɴᴇᴅ [ʀɪᴛᴏ sᴜᴘᴘᴏʀᴛ]({link}) ʏᴇᴛ, ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴜsᴇ ᴍᴇ ᴛʜᴇɴ ᴊᴏɪɴ [ʀɪᴛᴏ sᴜᴘᴘᴏʀᴛ]({link}) ᴀɴᴅ sᴛᴀʀᴛ ᴍᴇ ᴀɢᴀɪɴ!",
+                    reply_markup=InlineKeyboardMarkup([
+                        [InlineKeyboardButton("ᴊᴏɪɴ ɢʀᴏᴜᴘ", url=f"{link}")]
+                    ])
                 )
                 await msg.stop_propagation()
             except ChatWriteForbidden:
                 pass
     except ChatAdminRequired:
-        print(f"ɪ'ᴍ ɴᴏᴛ ᴀᴅᴍɪɴ ɪɴ MUST_JOIN ᴄʜᴀᴛ : {MUST_JOIN} !")
+        print(f"Promote me as an admin in the MUST_JOIN chat: {MUST_JOIN} !")
